@@ -2,4 +2,5 @@ Another file. More changes
 anotherchange for second commit
 
 
-ONE CHANGE
+ONE CHANGE MASTER
+SECOND CHANGE MASTER
